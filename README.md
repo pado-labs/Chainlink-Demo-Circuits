@@ -1,2 +1,2 @@
 # Chainlin-Demo-Circuits
-This is a Demo IZK circuits for Chainlink Hackathon
+This is a Demo with IZK circuits for Chainlink Hackathon
