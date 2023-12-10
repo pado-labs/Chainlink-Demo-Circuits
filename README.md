@@ -1,5 +1,5 @@
 # Chainlink-Demo-Circuits
-This is a Demo with IZK circuits for Chainlink Hackathon
+This is a Demo with interactive zero-knowledge proof circuits for the Chainlink Hackathon. In particular, this is a numerical compare operation performed by an IZK verifier, with a prover holding the witness, a.k.a, two-party computation executed locally. The circuits will be used in the scenario where an end-user gets his asset/token balance from CEX, and to prove the amount is more than X value. 
 
 ## Quick Start
 
